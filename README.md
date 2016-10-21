@@ -5,6 +5,7 @@
 - merge *.xml -> prettyxml -> clean <*> -> clean dummy lines -> do diff
 - or *.pdf -> *.txt
 - http://www.unixuser.org/~euske/python/pdfminer/
+
 # Actions:
 - tbd
 
