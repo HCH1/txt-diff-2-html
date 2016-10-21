@@ -3,7 +3,8 @@
 - For 2 files -> .sh to filter clean txt & diff -> .py to export .html
 - use sublime to show color diff 
 - merge *.xml -> prettyxml -> clean <*> -> clean dummy lines -> do diff
-
+- or *.pdf -> *.txt
+- http://www.unixuser.org/~euske/python/pdfminer/
 # Actions:
 - tbd
 
