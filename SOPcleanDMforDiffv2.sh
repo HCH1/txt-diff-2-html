@@ -1,3 +1,4 @@
+## for DM clean
 egrep -v "kw1|kw2" i1 > o1
 egrep -v "kw1|kw2" i2 > o2
 
@@ -8,10 +9,10 @@ python demo_difflib.py > dl1
 
 egrep "<\ " o14b > o14bBF
 egrep ">\ " o14b > o14bAF
-## .sh
+## .sh for xml clean
 python demo_xmlSplitV3.py > 1021drc01o1_noBKT
 sed '/[[:space:]]$/d' 1021drc01o1_noBKT > 1021drc01o1_noBKT_nospc
-## demo_xmlSplitV3.py
+## demo_xmlSplitV3.py for xml clean
 # -*- coding: utf-8 -*-
 import re
 path = '/tdhome/hunghc/aa.xml'
